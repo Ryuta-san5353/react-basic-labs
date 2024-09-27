@@ -71,6 +71,6 @@ div{
 }
 .description{
   font-weight:bold;
-  font-size:1.2em;
-  font-family: system-ui;
+  font-family: serif;
+  font-size: 1.2em;
 }
